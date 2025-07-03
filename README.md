@@ -1,3 +1,10 @@
+
+
+
+![Screenshot 2025-07-03 223522](https://github.com/user-attachments/assets/004f3a78-e428-45f9-9b0a-0684924fa9f8)
+![Screenshot 2025-07-03 223530](https://github.com/user-attachments/assets/6567fde8-fe35-4f61-8046-67d8bf90bf2e)
+![Screenshot 2025-07-03 223538](https://github.com/user-attachments/assets/e8d683b9-5b92-4d70-8470-82a42518967b)
+
 # Log Ingestion and Querying System
 
 A full-stack, professional-grade log ingestion and querying platform. Built with Node.js (Express) and React, this tool allows you to ingest, store, search, and filter logs with a beautiful, modern UI. All logs are persisted in a single JSON file for simplicity and transparency.

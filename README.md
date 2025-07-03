@@ -1,6 +1,9 @@
 
 
 
+![Screenshot 2025-07-03 224348](https://github.com/user-attachments/assets/e5bd2c13-074a-419d-aab1-2a55bb1c622e)
+![Screenshot 2025-07-03 224335](https://github.com/user-attachments/assets/c1e8dbb2-0053-477b-b04d-61a8d9b10cc5)
+![Screenshot 2025-07-03 224400](https://github.com/user-attachments/assets/214d760c-8916-4f05-9e5b-1f8d3d77cb24)
 
 # Log Ingestion and Querying System
 
